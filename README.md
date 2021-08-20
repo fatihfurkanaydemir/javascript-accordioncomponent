@@ -1,4 +1,4 @@
-#Basic javascript accordion component.
+# Basic javascript accordion component.
 
 [Go to website](https://fatihfurkanaydemir-accordion.netlify.app)
 
